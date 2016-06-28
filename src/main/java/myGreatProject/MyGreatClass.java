@@ -13,6 +13,7 @@ public class MyGreatClass {
 		
 		System.out.println(StringUtils.isEmpty("lol"));
 		System.out.println(StringUtils.isEmpty(""));
+		// commentaire constructif
 	}
 	
 }
